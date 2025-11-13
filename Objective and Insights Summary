@@ -1,0 +1,14 @@
+## 𝗚𝗼𝗮𝗹
+This Tableau workbook analyzes machine telemetry data from Daikibo's four factories collected over May 2021. The analysis identifies which factory and machine types experienced the most downtime, helping prioritize maintenance efforts.
+
+## 𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝘀
+- Calculated measure field "Unhealthy" representing downtime.
+- Bar charts visualizing downtime per factory and per device type.
+- Interactive dashboard linking the charts for detailed exploration.
+
+## 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
+- Daikibo Factory Seiko (Osaka, Japan) had the most downtime.
+- Certain machine types, such as Laser Welders, showed higher failure rates.
+
+## 𝗨𝘀𝗮𝗴𝗲
+Open the Tableau workbook in Tableau Desktop to explore the visualizations and dashboards.
